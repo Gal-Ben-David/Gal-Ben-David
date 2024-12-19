@@ -6,8 +6,10 @@
   </div>
 </div>
 
-<p style="margin-top: 50px;"> 🌟 &nbsp; Check out my projects and repositories. </p>
+<div style="padding-top: 50px;">
+<p> 🌟 &nbsp; Check out my projects and repositories. </p>
 <p> 💬 &nbsp; Feel free to reach out with questions or feedback. </p>
+</div>
 
 <!--
 **Gal-Ben-David/Gal-Ben-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
