@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Gal 👋</h1> 
 </div>
 
-<p> 🌟 Check out my projects and repositories. </p>
+<p> 🌟 &nbsp; Check out my projects and repositories. </p>
 <p> 💬 &nbsp; Feel free to reach out with questions or feedback. </p>
 
 <!--
