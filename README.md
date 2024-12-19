@@ -1,6 +1,9 @@
 <div align="center">
 <h1>Hi there, I'm Gal 👋</h1>
   <h3>Full-Stack Developer 👩🏻‍💻</h3>
+  <div>
+    <img  alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </div>
 </div>
 
 <p> 🌟 &nbsp; Check out my projects and repositories. </p>
