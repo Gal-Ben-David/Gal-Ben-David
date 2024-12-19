@@ -6,7 +6,7 @@
   </div>
 </div>
 
-<p> 🌟 &nbsp; Check out my projects and repositories. </p>
+<p style="margin-block-start: 20px;"> 🌟 &nbsp; Check out my projects and repositories. </p>
 <p> 💬 &nbsp; Feel free to reach out with questions or feedback. </p>
 
 <!--
