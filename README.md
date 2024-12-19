@@ -3,13 +3,8 @@
 </div>
 
 <p> 🌟 Check out my projects and repositories. </p>
-<p> 💬 Feel free to reach out with questions or feedback. </p>
+<p> 💬 &nbsp; Feel free to reach out with questions or feedback. </p>
 
-<div>
-  ![React](https://img.shields.io/badge/-React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
-</div>
 <!--
 **Gal-Ben-David/Gal-Ben-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
