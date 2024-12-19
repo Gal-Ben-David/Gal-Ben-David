@@ -1,7 +1,9 @@
-## Hi there, I'm Gal 👋
+<div align="center">
+<h1>Hi there, I'm Gal 👋</h1> 
+</div>
 
-🌟 Check out my projects and repositories.
-💬 Feel free to reach out with questions or feedback.
+<p> 🌟 Check out my projects and repositories. </p>
+<p> 💬 Feel free to reach out with questions or feedback. </p>
 <!--
 **Gal-Ben-David/Gal-Ben-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
